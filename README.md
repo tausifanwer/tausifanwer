@@ -1,11 +1,10 @@
 ### Hi there 👋
+I Am Tausif Anwer
 
-- 🔭 I’m currently working on HR
+- 🔭 I’m currently working on Existing HR Form
 - 🌱 I’m currently learning Web Devlopment
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about  Python , Falsk
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about  Python , FLASK ,HTML ,CSS
+- 📫 How to reach me: https://www.linkedin.com/in/tausif-anwer-3a73a8208/
+- 😄 Pronouns: Tausif 
+- ⚡ Fun fact: Everything is Easy 
 -->
