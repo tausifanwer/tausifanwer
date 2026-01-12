@@ -8,3 +8,4 @@ I Am Tausif Anwer
 - 😄 Pronouns: Tausif 
 - ⚡ Fun fact: Everything is Easy 
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tausifanwer)](https://github.com/tausifanwer/github-readme-stats)
