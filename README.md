@@ -1,22 +1,23 @@
-
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/>
-### Hi there 👋  
-I am **Tausif Anwer**
 
-- 🔭 I’m currently working on **Blogify**
-- 🌱 I’m currently learning **Web Development**
+### Hi there 👋  
+I'm **Tausif Anwer** 🚀
+
+- 🔭 Currently working on **Blogify**
+- 🌱 Learning and building in **Full-Stack Web Development**
 - 💬 Ask me about **Python, Flask, HTML, CSS, JavaScript, Node.js, Express.js, MongoDB**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tausif-anwer-3a73a8208/)
-- 😄 Pronouns: **Tausif**
-- ⚡ Fun fact: **Everything is Easy**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tausif-anwer-3a73a8208/)
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **Everything becomes easy with consistency**
 
 ---
 
-### **My Skills**
+### 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,nodejs,express,react,nextjs,mongodb,postgres,graphql,git,firebase,npm)](https://skillicons.dev)
 
 ---
-<h3 align="center">My Contributions</h3>
+
+<h3 align="center">🔥 GitHub Activity</h3>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -28,25 +29,20 @@ I am **Tausif Anwer**
 </p>
 
 ---
+
+<h3 align="center">📊 Language Statistics</h3>
+
 <table align="center">
   <tr>
-    <th align="center">Repos per Language</th>
-    <th align="center">Most Commit Language</th>
+    <th>Repos per Language</th>
+    <th>Most Commit Language</th>
   </tr>
   <tr>
-    <td align="center">
-      <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tausifanwer&theme=chartreuse_dark"
-        alt="Repos per Language"
-      />
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tausifanwer&theme=chartreuse_dark" />
     </td>
-    <td align="center">
-      <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tausifanwer&theme=chartreuse_dark"
-        alt="Most Commit Language"
-      />
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tausifanwer&theme=chartreuse_dark" />
     </td>
   </tr>
 </table>
-
-
