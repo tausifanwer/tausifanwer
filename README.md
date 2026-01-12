@@ -1,5 +1,13 @@
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to++my+GitHub+Profile!;Feel+free+to+Connect+with+me!;Thank+you!&font=Fira%20Code&center=true&width=380&height=50"
+    alt="Typing SVG"
+  />
+</p>
+
+---
 ### Hi there 👋  
 I'm **Tausif Anwer** 🚀
 
