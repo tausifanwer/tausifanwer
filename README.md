@@ -25,3 +25,26 @@ I am **Tausif Anwer**
   </a>
 </p>
 
+---
+<table align="center">
+  <tr>
+    <th align="center">Repos per Language</th>
+    <th align="center">Most Commit Language</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img
+        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tausifanwer&theme=chartreuse_dark"
+        alt="Repos per Language"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tausifanwer&theme=chartreuse_dark"
+        alt="Most Commit Language"
+      />
+    </td>
+  </tr>
+</table>
+
+
