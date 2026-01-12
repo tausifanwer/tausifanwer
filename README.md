@@ -13,3 +13,11 @@ I am **Tausif Anwer**
 ### **My Skills**
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,nodejs,express,react,nextjs,mongodb,postgres,graphql,git,firebase,npm)](https://skillicons.dev)
 
+---
+<h3 align="center">My Contributions</h3>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=tausifanwer" alt="GitHub Streak" />
+  </a>
+</p>
