@@ -28,13 +28,14 @@ I'm **Tausif Anwer** 🚀
 <h3 align="center">🔥 GitHub Activity</h3>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/tausifanwer">
     <img
-      src="https://streak-stats.demolab.com/?user=tausifanwer&theme=dark"
-      alt="GitHub Streak"
+      src="https://gh-readme-profile.vercel.app/api?username=tausifanwer&theme=dark"
+      alt="GitHub Stats"
     />
   </a>
 </p>
+
 
 ---
 
@@ -54,3 +55,14 @@ I'm **Tausif Anwer** 🚀
     </td>
   </tr>
 </table>
+
+---
+
+
+<p align="center">
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/walidbosso/walidbosso/pacman/pacman-contribution-graph-dark.svg"
+    width="100%"
+  />
+</p>
