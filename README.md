@@ -21,7 +21,7 @@ I'm **Tausif Anwer** 🚀
 ---
 
 ### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,express,react,nextjs,mongodb,postgres,graphql,git,firebase,npm,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,express,react,nextjs,mongodb,postgres,graphql,git,firebase,npm,postman,aws.docker,gcp,redux,supabase)](https://skillicons.dev)
 
 ---
 
